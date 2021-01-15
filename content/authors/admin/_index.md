@@ -1,77 +1,41 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Nacho Vizcaino
+role: Assistant Professor in Economics
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Macroeconomics
+  - Growth
+  - Development
+  - Structural Change
+  - Human Capital
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/jinvizcaino
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=2I4to1IAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jivizcaino
+organizations:
+  - name: University of Nottingham
+    url: https://www.nottingham.ac.uk/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Economics
+      institution: Washington University in St Louis
+      year: 2020
+email: juan.vizcaino@nottingham.ac.uk
+superuser: true
 highlight_name: false
 ---
+I am an Assistant Professor in the [School of Economics](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2Feconomics%2F&sa=D&sntz=1&usg=AFQjCNHTauq0gxeDcjP1drYCxVNEfMsyLQ) and a member of the Centre for Finance, Credit and Macroeconomics ([CFCM](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2Fcfcm%2Findex.aspx&sa=D&sntz=1&usg=AFQjCNFKeTbW6VpJs_frLTM1jILN8O3fwQ)) and the Centre for Research on Globalisation and Economic Policy ([GEP](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2Fgep%2Findex.aspx&sa=D&sntz=1&usg=AFQjCNHgVD4MHAHWwkQGnkUQPdVW6fTRLA)) at the [University of Nottingham](https://www.google.com/url?q=https%3A%2F%2Fwww.nottingham.ac.uk%2F&sa=D&sntz=1&usg=AFQjCNHqAe-nOhDv1-nklEf8y1QiYKdsHw).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I received my Ph.D. in Economics from [Washington University in St. Louis](https://economics.wustl.edu/) in 2020.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my research, I develop cutting-edge theoretical frameworks disciplined by micro and aggregate data to study Macroeconomic issues. My main areas of interest are growth, development, structural change, and human capital.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
