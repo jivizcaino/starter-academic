@@ -17,6 +17,6 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: gordo_aburrido.jpg
+  filename: https://github.com/jivizcaino/starter-academic/blob/master/static/media/gordo_aburrido.jpg
 ---
 I am currently in the process of migrating my website to this domain. In the meantime please go to my [Google sites website](https://sites.google.com/view/jivizcaino/home).
