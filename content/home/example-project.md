@@ -3,7 +3,7 @@ widget: pages
 widget_id: Example Project
 headless: true
 weight: 20
-title: Reasearch
+title: Research
 active: true
 design:
   columns: "2"
