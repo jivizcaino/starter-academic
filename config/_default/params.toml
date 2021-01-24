@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -114,8 +114,8 @@ appointment_url = "https://calendly.com/jivizcaino"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jinvizcaino"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  #{icon = "zoom", icon_pack = "fab", name = "Find Me on Zoom", link = "skype:echo123?call"},
-  #{icon = "zoom", icon_pack = "fab", name = "Find Me on Teams", link = "skype:echo123?call"},
+  {icon = "zoom", icon_pack = "fab", name = "Find Me on Zoom", link = "skype:echo123?call"},
+  {icon = "zoom", icon_pack = "fab", name = "Find Me on Teams", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -129,7 +129,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "@jin.vizcaino"
+twitter = "@jinvizcaino"
 
 ############################
 ## Regional Settings
@@ -177,8 +177,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
-
+  gravatar = true
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
 
@@ -241,7 +240,7 @@ plugins_js  = []
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true
 
 ############################
 ## Maps
