@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: RECNT-POSTS
+widget_id: recent-posts
 headless: true
 weight: 20
 title: ""
