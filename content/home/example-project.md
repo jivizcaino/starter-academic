@@ -1,10 +1,10 @@
 ---
 widget: pages
-widget_id: Example Project
+widget_id: example-project
 headless: true
 weight: 20
 title: Research
-active: false
+active: true
 design:
   columns: "2"
   background:
