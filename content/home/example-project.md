@@ -4,7 +4,7 @@ widget_id: example-project
 headless: true
 weight: 20
 title: Research
-active: true
+active: false
 design:
   columns: "2"
   background:
