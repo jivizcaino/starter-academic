@@ -24,8 +24,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: *Working Paper*
+publication: *Working Paper*
+publication_short: In *ICW*
 
 abstract: I study how the productivity of skilled and unskilled labor varies with development. Using harmonized, occupational labor market outcomes for a broad set of countries across the development spectrum, I document that employment in high-skill occupations, or jobs that are relatively more intensive in non-routine cognitive tasks, grows with development. In addition, the income of workers in high-skill occupations falls relative to earnings in low-skill occupations as countries grow richer. To understand the forces driving these findings, I develop a stylized model of the labor market across development. In the model, labor productivity is determined endogenously as a result of the selection of heterogeneous workers into occupations and education. I use a quantitative version of the model to decompose the observed decline in relative labor income between less-developed countries and the US into a component embedded in technologies, or relative skilled labor efficiency, and a fraction due to workers' characteristics, or relative skilled labor quality. I find that relative quality explains 25 percent of the decline in relative labor income, with the remaining fraction due to relative efficiency. In less-developed countries, the relatively few skilled workers are the most productive in performing high-skill jobs, which reduces the magnitude of skill-biased technological progress needed to rationalize the cross-country data by one half when compared to a world where labor quality is purely determined by educational attainment.
 
