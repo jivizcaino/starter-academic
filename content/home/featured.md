@@ -3,7 +3,7 @@ widget: featured
 widget_id: recent-posts
 headless: true
 weight: 80
-title: Featured Publications
+title: Working Papers
 subtitle: ""
 active: true
 content:
