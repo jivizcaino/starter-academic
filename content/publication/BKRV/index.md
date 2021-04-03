@@ -27,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication_short: Forthcoming at *Review of Economic Studies*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Using a broad panel of advanced economies we document that increases in GDP per capita are associated with a systematic shift in the composition of value added to sectors that are intensive in high-skill labor, a process we label as skill-biased structural change. It follows that further development in these economies leads to an increase in the relative demand for skilled labor. We develop a quantitative two-sector model of this process as a laboratory to assess the sources of the rise of the skill premium in the US and a set of ten other advanced economies, over the period 1977 to 2005. For the US, we find that the sector-specific skill neutral component of technical change accounts for 18-24% of the overall increase of the skill premium due to technical change, and that the mechanism through which this component of technical change affects the skill premium is via skill biased structural change.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
