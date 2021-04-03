@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Washington University in St Louis and Federal Reserve Bank of St Louis"
+- "Washington University in St Louis"
 - "University of Nottingham"
 
 date: "2020-12-01T00:00:00Z"
