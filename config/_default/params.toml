@@ -114,8 +114,8 @@ coordinates = {latitude = "52.940036541377175", longitude = "-1.1942828205767624
 contact_links = [
   {icon = "twitter-square", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ji_vizcaino"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "video", icon_pack = "fab", name = "Find Me on Zoom", link = "skype:echo123?call"},
-  {icon = "user-friends", icon_pack = "fab", name = "Find Me on Teams", link = "skype:echo123?call"},
+  {icon = "video", icon_pack = "fas", name = "Find Me on Zoom", link = "skype:echo123?call"},
+  {icon = "user-friends", icon_pack = "fas", name = "Find Me on Teams", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -282,4 +282,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack 
