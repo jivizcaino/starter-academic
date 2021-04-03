@@ -27,7 +27,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Working Paper
-publication_short: In *ICW*
+publication_short: *Working Paper*
 
 abstract: In this paper we develop a continuous time stochastic growth model that is suitable for studying the impact of natural disasters on the short run and long run growth rate of an economy. We find that the growth effects of a natural disaster depend in complicated ways on the details of expected foreign disaster aid and the existence of catastrophe insurance markets. We show that aid can have an influence on investments in prevention and mitigation activities and can delay the recovery from a natural disaster strike.
 
