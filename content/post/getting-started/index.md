@@ -6,7 +6,7 @@ summary: I am currently in the process of migrating my website to this domain.
   In the meantime please go to my [Google sites website](https://sites.google.com/view/jivizcaino/home).
 draft: false
 featured: true
-authors: []
+authors: admin
 lastmod: 2021-03-04T00:00:00.000Z
 tags: []
 categories: []
