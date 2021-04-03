@@ -112,7 +112,7 @@ appointment_url = "https://calendly.com/jivizcaino"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jinvizcaino"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ji_vizcaino"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "zoom", icon_pack = "fab", name = "Find Me on Zoom", link = "skype:echo123?call"},
   {icon = "zoom", icon_pack = "fab", name = "Find Me on Teams", link = "skype:echo123?call"},
@@ -129,7 +129,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "@jinvizcaino"
+twitter = "@ji_vizcaino"
 
 ############################
 ## Regional Settings
@@ -152,7 +152,7 @@ address_format = "en-us"
 main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -163,7 +163,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -177,7 +177,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = true
+  gravatar = false
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
 
