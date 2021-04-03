@@ -1,5 +1,5 @@
 ---
-title: "Natural Disasters and Growth: The Role of Foreign Aid and Disaster Insurance"
+title: "Natural Disasters and Growth The Role of Foreign Aid and Disaster Insurance"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
