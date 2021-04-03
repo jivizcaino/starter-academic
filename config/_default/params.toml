@@ -107,15 +107,15 @@ coordinates = {latitude = "52.940036541377175", longitude = "-1.1942828205767624
 #office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/jivizcaino"
+# appointment_url = "https://calendly.com/jivizcaino"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ji_vizcaino"},
+  {icon = "twitter-square", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ji_vizcaino"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "zoom", icon_pack = "fab", name = "Find Me on Zoom", link = "skype:echo123?call"},
-  {icon = "zoom", icon_pack = "fab", name = "Find Me on Teams", link = "skype:echo123?call"},
+  {icon = "video", icon_pack = "fab", name = "Find Me on Zoom", link = "skype:echo123?call"},
+  {icon = "user-friends", icon_pack = "fab", name = "Find Me on Teams", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
