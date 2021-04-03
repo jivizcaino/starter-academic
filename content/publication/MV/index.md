@@ -1,14 +1,16 @@
 ---
-title: "Skills, Technologies, and Development"
+title: "Natural Disasters and Growth: The Role of Foreign Aid and Disaster Insurance"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Rody Manuelli
 - admin
 
 # Author notes (optional)
 author_notes:
+- "Washington University in St Louis"
 - "University of Nottingham"
 
 date: "2020-12-01T00:00:00Z"
@@ -27,10 +29,10 @@ publication_types: ["3"]
 publication: In *Wowchemy Conference*
 publication_short: *Working Paper*
 
-abstract: I study how the productivity of skilled and unskilled labor varies with development. Using harmonized, occupational labor market outcomes for a broad set of countries across the development spectrum, I document that employment in high-skill occupations, or jobs that are relatively more intensive in non-routine cognitive tasks, grows with development. In addition, the income of workers in high-skill occupations falls relative to earnings in low-skill occupations as countries grow richer. To understand the forces driving these findings, I develop a stylized model of the labor market across development. In the model, labor productivity is determined endogenously as a result of the selection of heterogeneous workers into occupations and education. I use a quantitative version of the model to decompose the observed decline in relative labor income between less-developed countries and the US into a component embedded in technologies, or relative skilled labor efficiency, and a fraction due to workers' characteristics, or relative skilled labor quality. I find that relative quality explains 25 percent of the decline in relative labor income, with the remaining fraction due to relative efficiency. In less-developed countries, the relatively few skilled workers are the most productive in performing high-skill jobs, which reduces the magnitude of skill-biased technological progress needed to rationalize the cross-country data by one half when compared to a world where labor quality is purely determined by educational attainment.
+abstract: We develop a continuous time stochastic growth model that is suitable for studying the impact of natural disasters on the short run and long run growth rate of an economy. We find that the growth effects of a natural disaster depend in complicated ways on the details of expected foreign disaster aid and the existence of catastrophe insurance markets. We show that aid can have an influence on investments in prevention and mitigation activities and can delay the recovery from a natural disaster strike.
 
 # Summary. An optional shortened abstract.
-summary: I study how the productivity of skilled and unskilled labor varies with development. Using harmonized, occupational labor market outcomes for a broad set of countries across the development spectrum, I document that employment in high-skill occupations, or jobs that are relatively more intensive in non-routine cognitive tasks, grows with development. In addition, the income of workers in high-skill occupations falls relative to earnings in low-skill occupations as countries grow richer. To understand the forces driving these findings, I develop a stylized model of the labor market across development. In the model, labor productivity is determined endogenously as a result of the selection of heterogeneous workers into occupations and education. I use a quantitative version of the model to decompose the observed decline in relative labor income between less-developed countries and the US into a component embedded in technologies, or relative skilled labor efficiency, and a fraction due to workers' characteristics, or relative skilled labor quality. I find that relative quality explains 25 percent of the decline in relative labor income, with the remaining fraction due to relative efficiency. In less-developed countries, the relatively few skilled workers are the most productive in performing high-skill jobs, which reduces the magnitude of skill-biased technological progress needed to rationalize the cross-country data by one half when compared to a world where labor quality is purely determined by educational attainment.
+summary: We develop a continuous time stochastic growth model that is suitable for studying the impact of natural disasters on the short run and long run growth rate of an economy. We find that the growth effects of a natural disaster depend in complicated ways on the details of expected foreign disaster aid and the existence of catastrophe insurance markets. We show that aid can have an influence on investments in prevention and mitigation activities and can delay the recovery from a natural disaster strike.
 
 tags: []
 
