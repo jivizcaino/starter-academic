@@ -19,4 +19,4 @@ image:
   preview_only: false
   filename: ""
 ---
-I am currently in the process of migrating my website to this domain. In the meantime please go to my [Google sites website](https://sites.google.com/view/jivizcaino/home).
+I am in the process of migrating my website to this domain. In the meantime please go to my [Google sites website](https://sites.google.com/view/jivizcaino/home).
