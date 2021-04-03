@@ -1,5 +1,5 @@
 ---
-title: "Natural Disasters and Growth The Role of Foreign Aid and Disaster Insurance"
+title: "Natural Disasters and Growth: The Role of Foreign Aid and Disaster Insurance"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -18,7 +18,7 @@ date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: *Working Paper*
+publication_short: In *Working Paper*
 
 abstract: In this paper we develop a continuous time stochastic growth model that is suitable for studying the impact of natural disasters on the short run and long run growth rate of an economy. We find that the growth effects of a natural disaster depend in complicated ways on the details of expected foreign disaster aid and the existence of catastrophe insurance markets. We show that aid can have an influence on investments in prevention and mitigation activities and can delay the recovery from a natural disaster strike.
 
@@ -74,9 +74,8 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+    slides: example
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
