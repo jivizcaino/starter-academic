@@ -1,9 +1,9 @@
 ---
-widget: pages
+widget: featured
 widget_id: recent-posts
 headless: true
 weight: 20
-title: News2
+title: News
 subtitle: null
 content:
   page_type: post
