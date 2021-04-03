@@ -40,7 +40,7 @@ summary: Using a broad panel of advanced economies we document that increases in
 tags: [Structural Change]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
