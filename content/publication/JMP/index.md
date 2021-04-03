@@ -6,14 +6,12 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "University of Nottingham"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,16 +21,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I study how the productivity of skilled and unskilled labor varies with development. Using harmonized, occupational labor market outcomes for a broad set of countries across the development spectrum, I document that employment in high-skill occupations, or jobs that are relatively more intensive in non-routine cognitive tasks, grows with development. In addition, the income of workers in high-skill occupations falls relative to earnings in low-skill occupations as countries grow richer. To understand the forces driving these findings, I develop a stylized model of the labor market across development. In the model, labor productivity is determined endogenously as a result of the selection of heterogeneous workers into occupations and education. I use a quantitative version of the model to decompose the observed decline in relative labor income between less-developed countries and the US into a component embedded in technologies, or relative skilled labor efficiency, and a fraction due to workers' characteristics, or relative skilled labor quality. I find that relative quality explains 25 percent of the decline in relative labor income, with the remaining fraction due to relative efficiency. In less-developed countries, the relatively few skilled workers are the most productive in performing high-skill jobs, which reduces the magnitude of skill-biased technological progress needed to rationalize the cross-country data by one half when compared to a world where labor quality is purely determined by educational attainment.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I study how the productivity of skilled and unskilled labor varies with development. Using harmonized, occupational labor market outcomes for a broad set of countries across the development spectrum, I document that employment in high-skill occupations, or jobs that are relatively more intensive in non-routine cognitive tasks, grows with development. In addition, the income of workers in high-skill occupations falls relative to earnings in low-skill occupations as countries grow richer. To understand the forces driving these findings, I develop a stylized model of the labor market across development. In the model, labor productivity is determined endogenously as a result of the selection of heterogeneous workers into occupations and education. I use a quantitative version of the model to decompose the observed decline in relative labor income between less-developed countries and the US into a component embedded in technologies, or relative skilled labor efficiency, and a fraction due to workers' characteristics, or relative skilled labor quality. I find that relative quality explains 25 percent of the decline in relative labor income, with the remaining fraction due to relative efficiency. In less-developed countries, the relatively few skilled workers are the most productive in performing high-skill jobs, which reduces the magnitude of skill-biased technological progress needed to rationalize the cross-country data by one half when compared to a world where labor quality is purely determined by educational attainment.
 
 tags: []
 
@@ -65,8 +63,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
