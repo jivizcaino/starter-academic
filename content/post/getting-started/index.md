@@ -1,6 +1,6 @@
 ---
 title: Website Migration 🐌 🐌 🐌
-subtitle: 
+subtitle: I am in the process of migrating my website to this domain. In the meantime please go to my [Google sites website](https://sites.google.com/view/jivizcaino/home).
 
 # Summary for listings and search engines
 summary: I am in the process of migrating my website to this domain. In the meantime please go to my [Google sites website](https://sites.google.com/view/jivizcaino/home).
