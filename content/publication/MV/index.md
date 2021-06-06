@@ -40,9 +40,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Appendix
+  url: https://github.com/jivizcaino/starter-academic/blob/71a9157e3e68dff74ca419115a62db333f9fb0ea/content/publication/MV/MV_Appendix.pdf
 
 url_pdf: ''
 url_code: ''
