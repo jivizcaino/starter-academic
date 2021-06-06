@@ -38,10 +38,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
+jiv_jmp_appendix.pdf
+- name: Replication Package
+  url: /jiv_jmp_appendix.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
