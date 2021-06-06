@@ -51,7 +51,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen 
+  url: https://github.com/jivizcaino/starter-academic/blob/1a4eb90dab87085544e0662f0226cbe210df01c3/content/publication/BKRV/Online_Appendix_BKRV.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: '' 
