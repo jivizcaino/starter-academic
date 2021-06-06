@@ -30,8 +30,8 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: Forthcoming at *Review of Economic Studies*
+publication: Forthcoming at *Review of Economic Studies*
+# publication_short: Forthcoming at *Review of Economic Studies*
 
 abstract: Using a broad panel of advanced economies we document that increases in GDP per capita are associated with a systematic shift in the composition of value added to sectors that are intensive in high-skill labor, a process we label as skill-biased structural change. It follows that further development in these economies leads to an increase in the relative demand for skilled labor. We develop a quantitative two-sector model of this process as a laboratory to assess the sources of the rise of the skill premium in the US and a set of ten other advanced economies, over the period 1977 to 2005. For the US, we find that the sector-specific skill neutral component of technical change accounts for 18-24% of the overall increase of the skill premium due to technical change, and that the mechanism through which this component of technical change affects the skill premium is via skill biased structural change.
 
@@ -44,9 +44,9 @@ tags: Structural Change
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Custom Link
-url: http://example.org
+# links:
+# - name: Custom Link
+# url: http://example.org
 
 url_pdf: ''
 url_code: ''
@@ -71,7 +71,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - BKRV
-  - Online_Appendix_BKRV
+#  - Online_Appendix_BKRV
     
 
 # Slides (optional).
@@ -79,7 +79,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-    slides: example
+#    slides: example
 ---
 
 {{% callout note %}}
