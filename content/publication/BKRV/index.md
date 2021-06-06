@@ -45,9 +45,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-
-name: Replication Package
-url: https://zenodo.org/record/4750984
+# - name: Replication Package
+# url: https://zenodo.org/record/4750984
 url_pdf: ''
 url_code: ''
 url_dataset: '' 
