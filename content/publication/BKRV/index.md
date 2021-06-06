@@ -49,7 +49,7 @@ links:
 - name: Replication Package
   url: https://zenodo.org/record/4750984
 - name: Online Appendix
-  url: https://github.com/jivizcaino/starter-academic/blob/1a4eb90dab87085544e0662f0226cbe210df01c3/content/publication/BKRV/Online_Appendix_BKRV.pdf
+  url: https://github.com/jivizcaino/starter-academic/blob/1ef11141ac31cd975cec0aa0014073654859872d/content/publication/BKRV/BKRV_Online_Appendix.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: '' 
