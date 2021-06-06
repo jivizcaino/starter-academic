@@ -48,6 +48,7 @@ featured: true
 # - name: Replication Package
 # url: https://zenodo.org/record/4750984
 
+- name: Replication Package
 url_pdf: https://zenodo.org/record/4750984
 url_code: https://zenodo.org/record/4750984
 url_dataset: https://zenodo.org/record/4750984 
