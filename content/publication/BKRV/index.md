@@ -48,10 +48,10 @@ featured: true
 # - name: Custom Link
 # url: http://example.org
 
+url_replication_package: https://zenodo.org/record/4750984
 url_pdf: ''
 url_code: ''
--name: Replication Package
-url_dataset: https://zenodo.org/record/4750984
+url_dataset: '' 
 url_poster: ''
 url_project: ''
 url_slides: ''
