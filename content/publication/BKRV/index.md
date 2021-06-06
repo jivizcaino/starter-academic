@@ -44,8 +44,8 @@ tags: Structural Change
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
+links:
+- name: Custom Link
 url: http://example.org
 
 url_pdf: ''
