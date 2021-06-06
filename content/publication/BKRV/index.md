@@ -46,9 +46,12 @@ featured: true
 # Custom links (uncomment lines below)
 
 links:
-  name: Replication Package
+- name: Replication Package
   url: https://zenodo.org/record/4750984
-
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen 
 url_pdf: ''
 url_code: ''
 url_dataset: '' 
