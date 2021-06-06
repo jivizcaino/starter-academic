@@ -40,7 +40,7 @@ featured: true
 # Custom links (uncomment lines below)
 jiv_jmp_appendix.pdf
 - name: Replication Package
-  url: /jiv_jmp_appendix.pdf
+  url: jiv_jmp_appendix.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
