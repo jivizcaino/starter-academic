@@ -38,7 +38,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-
+links:
 - name: Replication Package
   url: content/publication/JMP/jiv_jmp_appendix.pdf
 url_pdf: ''
