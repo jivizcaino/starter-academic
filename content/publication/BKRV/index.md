@@ -45,10 +45,9 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-# url: http://example.org
+- name: Replication Package
+url: https://zenodo.org/record/4750984
 
-url_replication_package: https://zenodo.org/record/4750984
 url_pdf: ''
 url_code: ''
 url_dataset: '' 
