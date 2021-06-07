@@ -179,7 +179,7 @@ plugins_js  = []
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+  shape = "circle"
 
 # Configuration of publication pages.
 [publications]
